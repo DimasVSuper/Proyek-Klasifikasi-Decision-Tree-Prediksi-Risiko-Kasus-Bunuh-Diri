@@ -1,5 +1,8 @@
 # 🎯 Proyek Klasifikasi Decision Tree - Prediksi Risiko Kasus Bunuh Diri
 
+## Projek Mata Kuliah Fundamental-Data-Analyst-Semester-3
+---
+
 ## 📊 Ikhtisar Proyek
 
 **Tujuan**: Mengembangkan model machine learning untuk mengidentifikasi wilayah berisiko tinggi untuk kasus bunuh diri di Provinsi Jawa Barat (2019-2021) guna memungkinkan intervensi pencegahan berbasis data.
